@@ -20,5 +20,11 @@
       ],
       "js": ["extension.js"]
     }
-  ]
+  ],
+  "browser_specific_settings": {
+      "gecko": {
+          "id": "{0628fca5-753c-4491-a9b9-831432970c6f}",
+          "strict_min_version": "127.0"
+      }
+  }
 }
